@@ -1,0 +1,1 @@
+//Output 3 it repeadetly calls f2 with n as an argument until result is 0. increments n by 1 each iteration.

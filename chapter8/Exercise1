@@ -1,0 +1,3 @@
+For correctness check, someone else needs to look where a was declared to see 
+if type of array is the same as t.
+
